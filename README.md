@@ -1,11 +1,10 @@
-# To-do-App
+# To-do-App 📝
 A To do App I built using Vue. JS
 
-The main folder of this project is titled 'vue-skills' in it contains all the files created when building a Vue Project- from the node modules to the README. But I could not upload it all because of the size of the files, just the folders which contain my written codes, that is the 'public' and 'src' folders.
-
+The main folder of this project is titled 'vue-skills' in it contains all the files created when building a Vue Project- from the node modules to the README. The folders here are the public folder and src folder
 # vue-skills
 
-## Project setup
+## Project setup 🔓
 ```
 npm install
 ```
